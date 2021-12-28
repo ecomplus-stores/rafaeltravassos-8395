@@ -1,12 +1,12 @@
 {
   "domain": "rafaeltravassos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#becc00",
+  "primary_color": "#e0ce00",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cyborg",
+    "custom": "niche-game"
   },
-  "bg_color": "#1d8500",
+  "bg_color": "#145c00",
   "repository": "ecomplus-stores/rafaeltravassos",
   "logo": "/img/uploads/sco-sociedade-civil-organizada.png",
   "name": "SCO - Sociedade Civil Organizada",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/g92592.png",
   "country_code": "BR",
-  "secondary_color": "#1d8500",
+  "secondary_color": "#145c00",
   "icon": "/img/uploads/g92592.png",
   "store_id": 19974,
   "description": "SCO - Sociedade Civil Organizada",
