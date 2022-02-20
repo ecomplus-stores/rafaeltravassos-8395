@@ -1,24 +1,24 @@
 {
   "domain": "rafaeltravassos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e0ce00",
+  "primary_color": "#050505",
   "theme": {
     "bootswatch": "cyborg",
     "custom": "niche-game"
   },
-  "bg_color": "#145c00",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/rafaeltravassos",
-  "logo": "/img/uploads/sco-sociedade-civil-organizada.png",
-  "name": "SCO - Sociedade Civil Organizada",
-  "short_name": "SCO",
+  "logo": "/img/uploads/central-sos-logo.png",
+  "name": "Central S.O.S",
+  "short_name": "Central S.O.S",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/g92592.png",
+  "favicon": "/img/uploads/central-sos-250x250-borda.png",
   "country_code": "BR",
-  "secondary_color": "#145c00",
-  "icon": "/img/uploads/g92592.png",
+  "secondary_color": "#db0000",
+  "icon": "/img/uploads/central-sos-250x250-borda.png",
   "store_id": 19974,
-  "description": "SCO - Sociedade Civil Organizada",
-  "large_icon": "/img/uploads/g92592.png"
+  "description": "Central S.O.S \nCentral de Suporte Organização & Soluções",
+  "large_icon": "/img/uploads/central-sos-250x250-borda.png"
 }
