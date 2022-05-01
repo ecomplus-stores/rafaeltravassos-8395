@@ -1,7 +1,7 @@
 {
   "domain": "rafaeltravassos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#050505",
+  "primary_color": "#393e46",
   "theme": {
     "bootswatch": "cyborg",
     "custom": "niche-game"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/central-sos-250x250-borda.png",
   "country_code": "BR",
-  "secondary_color": "#db0000",
+  "secondary_color": "#ff0000",
   "icon": "/img/uploads/central-sos-250x250-borda.png",
   "store_id": 19974,
   "description": "Central S.O.S \nCentral de Suporte Organização & Soluções",
