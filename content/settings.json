@@ -1,5 +1,5 @@
 {
-  "domain": "rafaeltravassos.netlify.app",
+  "domain": "botaodecompra.com.br",
   "currency_symbol": "R$",
   "primary_color": "#393e46",
   "theme": {
@@ -8,13 +8,15 @@
   },
   "bg_color": "#000000",
   "repository": "ecomplus-stores/rafaeltravassos",
-  "logo": "/img/uploads/central-sos-logo.png",
+  "logo": "/img/uploads/botao-de-compra.png",
   "name": "Botão de Compra",
   "short_name": "Botão de Compra",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "_",
   "favicon": "/img/uploads/central-sos-250x250-borda.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#ff0000",
   "icon": "/img/uploads/central-sos-250x250-borda.png",
