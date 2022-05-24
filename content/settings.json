@@ -9,8 +9,8 @@
   "bg_color": "#000000",
   "repository": "ecomplus-stores/rafaeltravassos",
   "logo": "/img/uploads/central-sos-logo.png",
-  "name": "Central S.O.S",
-  "short_name": "Central S.O.S",
+  "name": "Botão de Compra",
+  "short_name": "Botão de Compra",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -19,6 +19,6 @@
   "secondary_color": "#ff0000",
   "icon": "/img/uploads/central-sos-250x250-borda.png",
   "store_id": 19974,
-  "description": "Central S.O.S \nCentral de Suporte Organização & Soluções",
+  "description": "Botão de Compra\nMarketplace & Central de Pedidos Online",
   "large_icon": "/img/uploads/central-sos-250x250-borda.png"
 }
