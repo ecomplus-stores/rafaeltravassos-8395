@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Crie agora o seu Grupo",
+    "text": "Criar Grupo",
     "link": "/promotion",
-    "background": "#e9fa00",
-    "color": "#145c00"
+    "background": "#c60d0d",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
@@ -22,7 +22,8 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
