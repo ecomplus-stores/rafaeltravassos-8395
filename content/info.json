@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": true,
-    "text": "Delivery Local"
+    "text": "Clubes de Assinatura"
   },
   "exchange": {
     "show": true,
-    "text": "Clubes de Assinatura"
+    "text": "Delivery Local"
   },
   "promo": {
     "show": true,
