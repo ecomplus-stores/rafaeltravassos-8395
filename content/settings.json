@@ -1,7 +1,7 @@
 {
   "domain": "botaodecompra.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#393e46",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "cyborg",
     "custom": "niche-game"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/central-sos-250x250-borda.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ff0000",
+  "secondary_color": "#c60d0d",
   "icon": "/img/uploads/central-sos-250x250-borda.png",
   "store_id": 19974,
   "description": "- Botão de Compra\n- Marketplace & Central de Pedidos Online",
