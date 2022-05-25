@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": true,
-    "text": "Delivery na Praia"
+    "text": "Delivery Local"
   },
   "exchange": {
     "show": true,
-    "text": "Compre por Assinatura - Club Du Gibão"
+    "text": "Clubes de Assinatura"
   },
   "promo": {
     "show": true,
