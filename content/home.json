@@ -19,7 +19,8 @@
           "start": "",
           "end": ""
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
