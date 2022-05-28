@@ -1,5 +1,5 @@
 {
-  "css": ".info-bar {\n    background: #c60d0d;\n    color: #FFFFFF\n}\n.menu__item {\ncolor: #000000\n}",
+  "css": ".info-bar {\n    background: #c60d0d;\n    color: #FFFFFF\n}\n.menu__item {\ncolor: #FFFFFF\n}",
   "html_head": "",
   "html_body": "<!-- This site is converting visitors into subscribers and customers with https://respond.io --><script id=\"respondio__widget\" src=\"https://cdn.respond.io/webchat/widget/widget.js?cId=4b74be8d89ef896db4d7defbe6701eabf1bffeec1d98d6a42367b85d3a34caf0\"></script><!-- https://respond.io -->"
 }
