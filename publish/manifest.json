@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f7f581b4bd47d5256b8483146bb57a47.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.43e040323b9944a51bd4e930b35556cf.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.426a123d47b375d81bf537de76aafdb8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.285ddef11109a1388a950e5efc807ce3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9be8378e5cc0adabb95532b1a7c0d365.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Botão de Compra",
+  "short_name": "Botão de Compra",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Botão de Compra\n- Marketplace, Delivery & Central de Pedidos Online",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
